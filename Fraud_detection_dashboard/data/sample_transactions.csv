@@ -1,0 +1,12 @@
+transaction_id,date,description,amount,category
+1,2024-05-01,Netflix,15.99,Subscription
+2,2024-05-02,Chewy,24.99,Pet Supplies
+3,2024-05-03,Starbucks,4.50,Coffee
+4,2024-05-04,Amazon,120.00,Shopping
+5,2024-05-05,Payroll,2000.00,Income
+6,2024-05-06,ATM Withdrawal,300.00,Cash
+7,2024-05-07,Netflix,15.99,Subscription
+8,2024-05-08,Chewy,24.99,Pet Supplies
+9,2024-05-09,Apple,999.00,Electronics
+10,2024-05-10,Unknown,5000.00,Unknown
+11,2024-05-10,Best Buy,3500.00,Misc
